@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi there! I’m <span style="color:#ff7eb9;">Tori Lee</span> </h1>
-![headshot](./headhsot.jpeg)
+<img src="./headhsot.jpeg" alt="Cute banner" width="600" style="border-radius:12px;"/>
 <p><em>(she / her / hers)</em></p>
 <p>🎓 NYU Class of 2026</p>
 <p>💼 Interested in Tax, Audit, and Advisory Roles</p>
