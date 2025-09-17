@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>✨👋 Hi, I’m <span style="color:#ff7eb9;">Tori Lee</span> ✨</h1>
-
+![headshot](https://www.notion.so/torilee/Hi-I-m-Victoria-Lee-c65baf2bcbcb4551955de7578a27220d?source=copy_link#8e756d9370cb4a76a23fda772cefb568)
 <p><em>(she / her / hers)</em></p>
 <p>🎓 NYU Class of 2026</p>
 <p>💼 Interested in Tax, Audit, and Advisory Roles</p>
