@@ -4,7 +4,7 @@
 <img src="./headshot.png" alt="credits to Madison Shimbo" width="400" style="border-radius:12px;"/>
 <p><em>(she / her / hers)</em></p>
 <p>🎓 NYU Class of 2026</p>
-<p>💼 Interested in Tax, Audit, and Advisory Roles</p>
+<p>💼 Interested in FinTech</p>
 <p>📚 B.S. in Business & Technology Management (Finance Concentration) + Math Minor</p>
 <p>🌸 Currently working on: <strong>this page and updating my rest of my github!</strong></p>
 
