@@ -47,14 +47,15 @@ and connect with others who share my passions in <b>finance, data, event managem
   <summary><b>🛠 Skills</b></summary>
   <p><b><p> Excel (PivotTables, Forecasting, Dashboards), SQL, Power BI, QuickBooks, Python, MATLAB, HTML, C, Microsoft Office Suite, Google Workspace, 
 </p>
-  <b>Expertise in:</b> Retail + F&B Sales, Bookkeeping, Data Analytics, Event Mgmt</p>
+  <b>Expertise in:</b> Early Stage startups, Retail + F&B Sales, Bookkeeping, Data Analytics, Event Mgmt</p>
 </details>
 
 <details>
   <summary><b>📄 Resume</b></summary>
   <p>
-    <a href="YOUR_FINANCE_RESUME_LINK.pdf">💼 Finance Resume</a> <br>
+    <a href="YOUR_FINANCE_RESUME_LINK.pdf">💼 Updated Application Resume</a> <br>
     <a href="YOUR_MASTER_RESUME_LINK.pdf">📜 Master Resume</a>
+    <li><b> Last Update: Jan 2025 </b></li>
   </p>
 </details>
 
