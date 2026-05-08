@@ -6,7 +6,7 @@
 <p>🎓 NYU Class of 2026</p>
 <p>💼 Interested in FinTech</p>
 <p>📚 B.S. in Business & Technology Management (Finance Concentration) + Math Minor</p>
-<p>🌸 Currently working on: <strong>this page and updating my rest of my github!</strong></p>
+<p>🌸 Currently working on: <strong>graduating, data analytics certs, updating my rest of my github!</strong></p>
 
 ---
 
